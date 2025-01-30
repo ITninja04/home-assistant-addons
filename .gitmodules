@@ -1,7 +1,3 @@
 [submodule "hass-n8n"]
 	path = hass-n8n
 	url = https://github.com/ITninja04/hass-n8n.git
-
-[submodule "hass-go2rtc"]
-	path = hass-go2rtc
-	url = https://github.com/ITninja04/hass-go2rtc.git
